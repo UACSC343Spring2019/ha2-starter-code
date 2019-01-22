@@ -1,3 +1,4 @@
+// DO NOT CHANGE THIS VARIABLE
 var sharks  = {
     signal: {
 	increment: 'INCREMENT',
@@ -14,7 +15,18 @@ var sharks  = {
 };
 
 document.addEventListener("DOMContentLoaded", function(event) {
+    // YOU CODE HERE
 });
+
+// YOUR CODE HERE
+
+
+
+
+
+
+
+// ----------------------- GIVEN CODE BELOW -------------------------
 
 
 // makeSignaller creates signaller objects (from lecture)
